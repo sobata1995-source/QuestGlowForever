@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: QuestGlow Forever
+## Notes: Enables the native sparkle effect on eligible quest objects.
+## Version: 0.1.0
+## SavedVariables: QuestGlowForeverDB
+QuestGlowForever.lua
