@@ -2,6 +2,12 @@
 
 Spot collectible quest objects as you explore Azeroth. QuestGlow Forever turns on the game's golden sparkles when you log in, so objects like the Cactus Apple are easier to see among nearby plants and scenery.
 
+**Before enabling QuestGlow**
+
+![Cactus Apples without sparkles](screenshots/cactus-apple-before.png)
+
+**After enabling QuestGlow**
+
 ![Golden sparkles around a Cactus Apple in the Valley of Trials](screenshots/cactus-apple.png)
 
 ## How it works
